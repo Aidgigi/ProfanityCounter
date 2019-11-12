@@ -15,6 +15,4 @@ isn't even everything you need to run the bot so I'm not really worried. Basical
 
 
 ### What can I do if I want to help?
-I'm always open to help, feedback, and people willing to make the bot better in any way. Just shoot my [reddit account]
-(https://reddit.com/u/Aidgigi) a DM and I'll get back within 24 hours. Please also state what you want to improve or what you
-wish to add to the code. Like I said, I'll probably let you help out, unless you just don't know how to code heh.
+I'm always open to help, feedback, and people willing to make the bot better in any way. Just shoot my [reddit account](https://reddit.com/u/Aidgigi) a DM and I'll get back within 24 hours. Please also state what you want to improve or what you wish to add to the code. Like I said, I'll probably let you help out, unless you just don't know how to code heh.
