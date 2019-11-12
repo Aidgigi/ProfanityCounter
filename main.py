@@ -1,3 +1,9 @@
+"""
+Someone please recommend changes to the bad word list. I came up with this at least 1 in the morning so it sucks, I know.
+
+Actually, reccomend any changes at all. This is my first public project that I actually care about, so let me know what I could fix
+"""
+
 import praw, re, time
 from prawcore.exceptions import RequestException, Forbidden, ServerError
 from praw.exceptions import APIException, ClientException
