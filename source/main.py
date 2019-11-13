@@ -202,7 +202,7 @@ while True:
                             log.warning(f"Banned at: {comment.subreddit}")
 
                             try:
-                                #adding this sub to our whitelist
+                                #adding this sub to our blaclist (not implemented yet)
                                 if str(comment.subreddit) not in bs:
                                     bannedSubs.write(f"{comment.subreddit}\n")
 
