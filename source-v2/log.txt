@@ -1,0 +1,48 @@
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t3_e5v8sc - Tue Dec  3 22:51:01 2019
+DEBUG - Commented at: t3_e5v8sc - Tue Dec  3 22:51:37 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t1_f9m5fmk - Tue Dec  3 22:52:23 2019
+DEBUG - Commented at: t1_f9m5fmk - Tue Dec  3 22:52:33 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t3_e5v8sc - Wed Dec  4 15:48:22 2019
+DEBUG - Commented at: t3_e5v8sc - Wed Dec  4 15:49:04 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t3_e5v8sc - Wed Dec  4 15:52:17 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t3_e5v8sc - Wed Dec  4 15:53:25 2019
+DEBUG - Commented at: t3_e5v8sc - Wed Dec  4 15:54:04 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t3_e5v8sc - Wed Dec  4 16:02:44 2019
+DEBUG - Searching for Aidgigi to: 38.0490562915802 seconds - Wed Dec  4 16:03:22 2019
+DEBUG - Commented at: t3_e5v8sc - Wed Dec  4 16:03:23 2019
+DEBUG - System executed successfully. - Wed Dec  4 16:03:23 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t1_f9ofwy7 - Wed Dec  4 17:32:00 2019
+DEBUG - Searching for Aidgigi to: 27.07797408103943 seconds - Wed Dec  4 17:32:27 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t3_e5v8sc - Wed Dec  4 17:33:45 2019
+DEBUG - Searching for Aidgigi to: 24.038145780563354 seconds - Wed Dec  4 17:34:09 2019
+DEBUG - Commented at: t3_e5v8sc - Wed Dec  4 17:34:09 2019
+DEBUG - System executed successfully. - Wed Dec  4 17:34:09 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t1_f9ooke1 - Wed Dec  4 17:35:45 2019
+DEBUG - Searching for profanitycounter2 to: 2.9683563709259033 seconds - Wed Dec  4 17:35:48 2019
+DEBUG - Commented at: t1_f9ooke1 - Wed Dec  4 17:35:48 2019
+DEBUG - System executed successfully. - Wed Dec  4 17:35:48 2019
+ERROR - Error encountered while communicating with the server - Reconnecting in 1 minute - Wed Dec  4 18:03:53 2019
+ERROR - Connection to the API was dropped - Reconnecting in 30 seconds - Wed Dec  4 20:23:30 2019
+DEBUG - System Used: user:Aidgigi; sub:mytestsubgoaway; parent:t3_e6c96i - Wed Dec  4 20:56:53 2019
+DEBUG - Searching for Aidgigi to: 23.51574969291687 seconds - Wed Dec  4 20:57:17 2019
+DEBUG - Commented at: t3_e6c96i - Wed Dec  4 20:57:18 2019
+DEBUG - System executed successfully. - Wed Dec  4 20:57:18 2019
+DEBUG - Searching for Aidgigi to: 56.84057545661926 seconds - Wed Dec  4 21:05:51 2019
+DEBUG - Searching for Aidgigi to: 29.487448692321777 seconds - Wed Dec  4 21:07:05 2019
+DEBUG - Searching for Aidgigi to: 25.270689725875854 seconds - Wed Dec  4 21:08:42 2019
+DEBUG - Searching for Aidgigi to: 27.420621156692505 seconds - Wed Dec  4 21:16:00 2019
+DEBUG - Searching for Aidgigi to: 28.599029064178467 seconds - Thu Dec  5 16:11:25 2019
+DEBUG - Searching for Aidgigi to: 26.63847851753235 seconds - Thu Dec  5 16:12:33 2019
+DEBUG - Searching for Aidgigi to: 26.576956272125244 seconds - Sat Dec  7 15:39:00 2019
+DEBUG - Searching for Aidgigi to: 28.092257976531982 seconds - Sat Dec  7 16:41:32 2019
+DEBUG - Searching for Aidgigi to: 24.46297812461853 seconds - Sat Dec  7 16:44:19 2019
+DEBUG - Searching for Aidgigi to: 22.692617893218994 seconds - Sat Dec  7 16:45:06 2019
+DEBUG - Searching for Aidgigi to: 58.73506140708923 seconds - Sat Dec  7 16:50:07 2019
+DEBUG - Searching for aidan to: 4.053682327270508 seconds - Sat Dec  7 16:56:58 2019
+DEBUG - Searching for Aidgigi to: 25.390426635742188 seconds - Sat Dec  7 16:58:31 2019
+DEBUG - Searching for Aidgigi to: 25.74609351158142 seconds - Sat Dec  7 17:02:08 2019
+DEBUG - Searching for Aidgigi to: 40.332982540130615 seconds - Sat Dec  7 17:04:01 2019
+DEBUG - Searching for Aidgigi to: 23.79634165763855 seconds - Sat Dec  7 17:13:59 2019
+DEBUG - Searching for Aidgigi to: 20.71333384513855 seconds - Sat Dec  7 17:17:09 2019
+DEBUG - Searching for Aidgigi to: 25.988490343093872 seconds - Sat Dec  7 17:21:21 2019
+DEBUG - Searching for Aidgigi to: 38.79730224609375 seconds - Sat Dec  7 17:23:01 2019
