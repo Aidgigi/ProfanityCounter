@@ -4,6 +4,10 @@
     "startRecTime":1575591687,
     "profanityTotal":0,
     "sysTimeUsed":0,
+    "called":0,
+    "calledOn":0,
+    "favoriteWord":"xxx",
+    "favoriteWordNP":"xxx",
     "profanityUsage":{
     }
   }

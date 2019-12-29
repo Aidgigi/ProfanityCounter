@@ -1,0 +1,16 @@
+Hello everyone! I've been working on an update to the bot over the course of two weeks, and I'm finally ready to release it. I'm calling this update "Version 2.0" because it really does change the whole way the bot works. *Don't worry, you'll still be able to check your potty mouth.*
+
+First off, I'd like to go over what I had to do in order to make these changes. No one really asks about the true scale of development, so I just wanna show you. The project started out as 280 lines of very sloppy code, a lot of comments, and some whitespace. This first version was the code that has been running for the last month (I think?) and it's been working just fine. However, as bot use increased, the amount of responses my bot could make stayed the same. This was in fact partially due to A) shitty internet, B) slow Reddit API, and C) an innefecient search function. So, I decided to fix one of these problems by just rewriting everything, cleaning up the code, and modularizing certain aspects. So what's the damage? Version 2 has almost 670 lines of code. All of this typing wasn't in vain, version 2 has some exciting new stuff.
+
+So what's new?:
+ - I added the ability to check profanity as a parent comment. Meaning you can check the profanity of a post, and not just a comment.
+ - You can check your own profanity without having to make two comments. Simply use `u/profanitycounter [self]` to give yourself a report.
+ - I programmed a faster (in practice) search function. My program now gets a copy of every word you've ever said on Reddit, and scans that.
+ - As a side affect of the new stats system, users can now store their profanity on the system, and have instant access to their report. 
+ - Oh yeah, **I added a stats system**. More on this below.
+
+The Stats System:
+After you register in the stats system, the bot will automatically keep tabs on things like: how often you use the bot, how often the bot gets used on you, your favorite bad word, you favorite not-so-bad word, how much system time you've used, along with a full record of your profanity. You can register for the stats system by using `u/profanitycounter [startstats]` in any form of comment. Once you're registered, your stats and profanity usage will be updated every 12 hours, so that this info is up to date. Being in the system also grants you, any anyone, instant access to your poo poo stinky mouth report. This mean no more waiting for the slow API just to see what you already know. I almost forgot to mention; you can check your stats with `u/profanitycounter [stats]`. If you ever wish to be removed from the system, for some dumb reason, PM/DM/Message/Phone/Email me and I'll happily delete your special little json file.
+
+What next?:
+I guess you guys should probably recommend features, because I need something to do. I've reached a low point in my life where I willingly study for tests, so anything is an excuse. Also, use the bot, **a lot**. Not only does it make papa internet famous, but it also helps me find errors, and lemme tell you; there will be errors. So, as the youth say, "go ham" and report any bug findings promptly for immediate service.
